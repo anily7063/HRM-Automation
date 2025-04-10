@@ -1,4 +1,3 @@
-Template for Your Cypress QA Automation Project
 md
 # 🧪 OrangeHRM QA Automation (Cypress)
 
